@@ -2,7 +2,7 @@
 
 ## I love Physics, Math, and programing
 
-- 🔭 I’m currently working on some samll programing ideas with Python on my own.
+- 🔭 I’m currently working on some small programing ideas with Python on my own.
 - 🌱 I’m currently learning Algorithms, Statistics, and C
 - 👯 I’m looking to collaborate on Python projecets, I still have no professional experience, so I hope to ge a chance to participate in some.
 - 🤔 I’m looking for help with databases, and finding a job as Python programer and/or participating in a joint project.
